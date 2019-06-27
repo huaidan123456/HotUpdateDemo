@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "abf3421f-bcdc-41ff-9078-b93ec9c0100e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "brandIcon_1": {
+      "ver": "1.0.4",
+      "uuid": "b6c1b1ea-acf4-448c-aab9-473e8f629002",
+      "rawTextureUuid": "abf3421f-bcdc-41ff-9078-b93ec9c0100e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 270,
+      "height": 270,
+      "rawWidth": 270,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
