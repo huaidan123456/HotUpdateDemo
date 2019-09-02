@@ -138,7 +138,7 @@ cc.Class({
 
 
     /**
-     * 设置校验的会带哦
+     * 校验的回调函数
      * @param {*} path 
      * @param {*} asset 
      */
